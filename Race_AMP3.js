@@ -1,4 +1,4 @@
-define(['pipAPI', 'https://cdn.jsdelivr.net/gh/Lucca-R/amp@main/fullAMP'], function(APIConstructor, ampExtension){
+define(['pipAPI', 'https://cdn.jsdelivr.net/gh/Lucca-R/amp@main/fullAMP3.js'], function(APIConstructor, ampExtension){
 
 	var API = new APIConstructor();
 	
